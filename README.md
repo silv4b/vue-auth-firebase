@@ -1,4 +1,4 @@
-# yt
+# vue-auth-firebase (firebase-9)
 
 ## Project setup
 ```
